@@ -44,7 +44,7 @@ function ScheduleContent() {
   }
 
   return (
-    <div className="flex w-full  h-[calc(100vh-80px)] p-3 justify-center">
+    <div className="flex w-full  h-[calc(100dvh-80px)] p-3 justify-center">
       <div className="flex flex-col w-full h-full laptop:w-80 bg-[#303030] rounded-xl p-4">
         <span className="w-full text-center font-bold p-3 text-white text-2xl">
           {params.title}
