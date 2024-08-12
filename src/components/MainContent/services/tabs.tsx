@@ -6,7 +6,7 @@ import Link from "next/link";
 function ServiceTabs() {
   return (
     <Tabs
-      defaultActiveKey="profile"
+      defaultActiveKey="home"
       id="uncontrolled-tab-example"
       className="font-bold"
       fill
